@@ -1,0 +1,10 @@
+Copyright 2013 -- Ben Root
+Distributable under the CC-Attribution-3.0 Unported license. In other words,
+feel free to modify and redistribute, just make sure you attribute the
+original source.
+
+That said, I must acknowledge the sources of inspiration for this tutorial.
+Much of the content comes from the matplotlib documentation, which is the
+collaborative result of many hard-working people around the world. I also
+took inspiration from Eric Jones' SciPy 2012 tutorial, as well as Nicolas
+Rougier's beginner's guide.
