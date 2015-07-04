@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Try to reproduce the figure shown in images/exercise_1-2.png
+# Try to reproduce the figure shown in images/exercise_4-1.png
 # Here's the data and colors used.
 
 t = np.linspace(0, 2 * np.pi, 150)
