@@ -23,6 +23,6 @@ Cheers!
 [Part 1: Overview of Matplotlib]: http://nbviewer.ipython.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part1-Figures_Subplots_and_layouts.ipynb
 [Part 2: Plotting Methods]: http://nbviewer.ipython.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part2-Plotting_Methods_Overview.ipynb
 [Part 3: How To Speak MPL]: http://nbviewer.ipython.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part3-HowToSpeakMPL.ipynb
-[Part 4: Limits, Legends, and Layouts]: http://nbviewer.ipython.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part2-Limits_Legends_and_Layouts.ipynb
-[Part 5: Artists]: http://nbviewer.ipython.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part4-Artists.ipynb
-[Part 6: mpl_toolkits]: http://nbviewer.ipython.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part5-mpl_toolkits.ipynb
+[Part 4: Limits, Legends, and Layouts]: http://nbviewer.ipython.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part4-Limits_Legends_and_Layouts.ipynb
+[Part 5: Artists]: http://nbviewer.ipython.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part5-Artists.ipynb
+[Part 6: mpl_toolkits]: http://nbviewer.ipython.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part6-mpl_toolkits.ipynb
