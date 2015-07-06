@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Try to reproduce the figure shown in images/exercise_1.3.png
+# Try to reproduce the figure shown in images/exercise_4.2.png
 # This one is a bit trickier!
 
 # Here's the data...
