@@ -20,8 +20,10 @@ The tutorial can be viewed on [nbviewer](http://nbviewer.jupyter.org):
 All you need is matplotlib (v1.5 or greater) and jupyter installed.
 You can use your favorite Python package installer for this:
 
-> conda install matplotlib jupyter
-> git clone https://github.com/WeatherGod/AnatomyOfMatplotlib.git
-> cd AnatomyOfMatplotlib
-> jupyter notebook
+```bash
+conda install matplotlib jupyter
+git clone https://github.com/WeatherGod/AnatomyOfMatplotlib.git
+cd AnatomyOfMatplotlib
+jupyter notebook
+```
 
