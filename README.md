@@ -1,4 +1,4 @@
-* Introduction
+# Introduction
 This tutorial is a complete re-imagining of how one should teach users
 the matplotlib library. Hopefully, this tutorial may serve as inspiration
 for future restructuring of the matplotlib documentation. Plus, I have some
@@ -16,12 +16,12 @@ The tutorial can be viewed on [nbviewer](http://nbviewer.jupyter.org):
 * [Part 5: Artists](http://nbviewer.jupyter.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part5-Artists.ipynb)
 * [Part 6: mpl_toolkits](http://nbviewer.jupyter.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part6-mpl_toolkits.ipynb)
 
-* Installation
+# Installation
 All you need is matplotlib (v1.5 or greater) and jupyter installed.
 You can use your favorite Python package installer for this:
 
-$ conda install matplotlib jupyter
-$ git clone https://github.com/WeatherGod/AnatomyOfMatplotlib.git
-$ cd AnatomyOfMatplotlib
-$ jupyter notebook
+> conda install matplotlib jupyter
+> git clone https://github.com/WeatherGod/AnatomyOfMatplotlib.git
+> cd AnatomyOfMatplotlib
+> jupyter notebook
 
