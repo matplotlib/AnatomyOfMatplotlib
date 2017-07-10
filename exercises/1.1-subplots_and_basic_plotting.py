@@ -1,6 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+plt.style.use('classic')
+
 # Try to reproduce the figure shown in images/exercise_1-1.png
 
 # Our data...

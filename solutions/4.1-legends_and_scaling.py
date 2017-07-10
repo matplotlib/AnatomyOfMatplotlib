@@ -1,6 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+plt.style.use('classic')
+
 t = np.linspace(0, 2 * np.pi, 150)
 x1, y1 = np.cos(t), np.sin(t)
 x2, y2 = 2 * x1, 2 * y1
