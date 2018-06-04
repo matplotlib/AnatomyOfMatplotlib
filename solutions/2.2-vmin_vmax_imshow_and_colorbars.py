@@ -2,7 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 np.random.seed(1)
 
-plt.style.use('classic')
 
 # Generate random data with different ranges...
 data1 = np.random.random((10, 10))
