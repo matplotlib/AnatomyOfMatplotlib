@@ -22,7 +22,7 @@ You can use your favorite Python package installer for this:
 
 ```bash
 conda install matplotlib jupyter
-git clone https://github.com/WeatherGod/AnatomyOfMatplotlib.git
+git clone https://github.com/matplotlib/AnatomyOfMatplotlib.git
 cd AnatomyOfMatplotlib
 jupyter notebook
 ```
