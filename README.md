@@ -8,13 +8,13 @@ Please fork and contribute back improvements! Feel free to use this tutorial
 for conferences and other opportunities for training.
 
 The tutorial can be viewed on [nbviewer](http://nbviewer.jupyter.org):
-* [Part 0: Introduction To NumPy](http://nbviewer.jupyter.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part0-Intro2NumPy.ipynb)
-* [Part 1: Overview of Matplotlib](http://nbviewer.jupyter.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part1-Figures_Subplots_and_layouts.ipynb)
-* [Part 2: Plotting Methods](http://nbviewer.jupyter.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part2-Plotting_Methods_Overview.ipynb)
-* [Part 3: How To Speak MPL](http://nbviewer.jupyter.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part3-HowToSpeakMPL.ipynb)
-* [Part 4: Limits, Legends, and Layouts](http://nbviewer.jupyter.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part4-Limits_Legends_and_Layouts.ipynb)
-* [Part 5: Artists](http://nbviewer.jupyter.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part5-Artists.ipynb)
-* [Part 6: mpl_toolkits](http://nbviewer.jupyter.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part6-mpl_toolkits.ipynb)
+* [Part 0: Introduction To NumPy](http://nbviewer.jupyter.org/github/matplotlib/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part0-Intro2NumPy.ipynb)
+* [Part 1: Overview of Matplotlib](http://nbviewer.jupyter.org/github/matplotlib/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part1-Figures_Subplots_and_layouts.ipynb)
+* [Part 2: Plotting Methods](http://nbviewer.jupyter.org/github/matplotlib/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part2-Plotting_Methods_Overview.ipynb)
+* [Part 3: How To Speak MPL](http://nbviewer.jupyter.org/github/matplotlib/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part3-HowToSpeakMPL.ipynb)
+* [Part 4: Limits, Legends, and Layouts](http://nbviewer.jupyter.org/github/matplotlib/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part4-Limits_Legends_and_Layouts.ipynb)
+* [Part 5: Artists](http://nbviewer.jupyter.org/github/matplotlib/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part5-Artists.ipynb)
+* [Part 6: mpl_toolkits](http://nbviewer.jupyter.org/github/matplotlib/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part6-mpl_toolkits.ipynb)
 
 # Installation
 All you need is matplotlib (v1.5 or greater) and jupyter installed.
