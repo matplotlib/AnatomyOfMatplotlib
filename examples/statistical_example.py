@@ -19,7 +19,7 @@ def main():
     boxplot(axes[1], dists, colors)
     violinplot(axes[2], dists, colors)
 
-    example_utils.title(fig, 'hist/boxplot/violinplot: Stastical plotting',
+    example_utils.title(fig, 'hist/boxplot/violinplot: Statistical plotting',
                         y=0.9)
     fig.savefig('statistical_example.png', facecolor='none')
 
@@ -39,7 +39,7 @@ def hist(ax, dists, colors):
     # each distribution separately so they'll overlap and turn on transparency
     ax.set_color_cycle(colors)
     for dist in dists:
-        ax.hist(dist, bins=20, normed=True, edgecolor='none', alpha=0.5)
+        ax.hist(dist, bins=20, density=True, edgecolor='none', alpha=0.5)
 
     ax.margins(y=0.05)
     ax.set_ylim(bottom=0)
