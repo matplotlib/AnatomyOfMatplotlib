@@ -15,7 +15,7 @@ cax = fig.add_axes([0.25, 0.1, 0.55, 0.03]) # Add an axes for the colorbar
 
 # Now you're on your own!
 for ax, data in zip(axes, [data1, data2, data3]):
-	# Display data, explicitly making the colormap cover values from 0 to 3
+    # Display data, explicitly making the colormap cover values from 0 to 3
     im = ax.imshow(data, vmin=0, vmax=3, interpolation='nearest')
 
 fig.colorbar(im, cax=cax, orientation='horizontal')
