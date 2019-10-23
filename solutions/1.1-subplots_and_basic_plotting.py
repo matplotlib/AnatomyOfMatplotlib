@@ -1,3 +1,4 @@
+# import required libraries 
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -11,4 +12,5 @@ for ax, y, name in zip(axes, [y1, y2, y3], names):
     ax.plot(x, y, color='black')
     ax.set(xticks=[], yticks=[], title=name)
 
+#printing plot in IDE
 plt.show()
