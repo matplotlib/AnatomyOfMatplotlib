@@ -21,7 +21,7 @@ All you need is matplotlib (v1.5 or greater) and jupyter installed.
 You can use your favorite Python package installer for this:
 
 ```bash
-conda install matplotlib jupyter
+conda install matplotlib ipympl jupyter
 git clone https://github.com/matplotlib/AnatomyOfMatplotlib.git
 cd AnatomyOfMatplotlib
 jupyter notebook
