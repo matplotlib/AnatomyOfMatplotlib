@@ -1,8 +1,9 @@
+#import required libraries 
 import numpy as np
 import matplotlib.pyplot as plt
-np.random.seed(1)
+np.random.seed(1) # generates exact same random values as they are here inside .seed(value)
 
-# Generate data...
+# Generate Random  data...
 y_raw = np.random.randn(1000).cumsum() + 15
 x_raw = np.linspace(0, 24, y_raw.size)
 
@@ -23,8 +24,10 @@ barcolor, linecolor, fillcolor = 'wheat', 'salmon', 'lightblue'
 
 # Now you're on your own!
 
+#making sublots
 fig, ax = plt.subplots()
 
+#Styling the Plot a little ...
 ax.plot(x_raw, y_raw, color=linecolor)
 ax.bar(x_pos, y_avg, width=bar_width, color=barcolor, yerr=y_err, 
        ecolor='gray', edgecolor='gray')
